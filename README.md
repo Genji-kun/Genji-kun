@@ -1,9 +1,7 @@
-<h1 align="center" I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
-Vo Phu Phat</a></h1>
-A passionate Website Developer from VietNam. I'm currently 4th year student of HCMC Open University
-<br/>
-
+### Hi, my name is Vo Phu Phat,a passionate Website Developer from VietNam. I'm currently 4th year student of HCMC Open University
+##
 ![view](https://komarev.com/ghpvc/?username=genji-kun)
+
 
 ## My profile 
 
