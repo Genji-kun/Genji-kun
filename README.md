@@ -7,6 +7,7 @@
 ## My profile 
 
 <img src="https://github-readme-stats.vercel.app/api?username=genji-kun&theme=tokyonight&show_icons=true&count_private=true"> &nbsp; 
+<br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=genji-kun&theme=tokyonight&layout=compact&langs_count=6">
 
 
