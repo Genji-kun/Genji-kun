@@ -33,7 +33,7 @@ My name is Vo Phu Phat, also known as Genji-kun, a passionate website developer 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,python,java,html,css,js,ts" />
+    <img src="https://skillicons.dev/icons?i=cpp,cs,html,css,js,ts,python,java" />
   </a>
 </p>
 
