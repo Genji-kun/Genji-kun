@@ -46,7 +46,7 @@ My name is Vo Phu Phat, also known as Genji-kun, a passionate website developer 
 </p>
 
 
-## IDE
+## IDEs
 
 <p align="center">
   <a href="https://skillicons.dev">
