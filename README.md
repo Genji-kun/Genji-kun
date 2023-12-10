@@ -31,15 +31,15 @@ My name is Vo Phu Phat, also known as Genji-kun, a passionate website developer 
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img loading="lazy" src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=genji-kun" height="150" alt="stats graph"  />
-  <img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=genji-kun" height="150" alt="languages graph"  />
+  <img loading="lazy" src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&username=genji-kun" height="150" alt="stats graph"  />
+  <img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&username=genji-kun" height="150" alt="languages graph"  />
 </div>
 
-### Technicals
+## Technicals
 
 <div align="left">
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" width="42" alt="spring logo"  />
-  <img loading="lazy" src="https://www.vectorlogo.zone/logos/nestjs/nextjs-icon.svg" height="30" width="42" alt="nestjs logo"  />
+  <img loading="lazy" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" height="30" width="42" alt="nextjs logo"  />
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" width="30" alt="ts logo"  />
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" width="42" alt="docker logo"  />
   <img loading="lazy" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" height="30" width="30" alt="jenkins logo"  />
