@@ -18,12 +18,6 @@ My name is Vo Phu Phat, also known as Genji-kun, a passionate website developer 
 
 <p align="justify">
 
-💬 I am well-versed in various topics, including but not limited to React, Ubuntu, and Java Spring. Please don't hesitate to reach out if you have any inquiries or need assistance.
-
-</p>
-
-<p align="justify">
-
 📫 For any queries or collaboration opportunities, you can contact me via [it.phatvo@gmail.com](mailto:it.phatvo@gmail.com).
 
 </p>
@@ -35,24 +29,32 @@ My name is Vo Phu Phat, also known as Genji-kun, a passionate website developer 
   <img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&username=genji-kun" height="150" alt="languages graph"  />
 </div>
 
+## Languages
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c++,c#,python,java,html,css,js,ts" />
+  </a>
+</p>
+
 ## Technicals
 
-<div align="left">
-  <img loading="lazy" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="30" width="42" alt="react logo"  />
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" width="42" alt="spring logo"  />
-  <img loading="lazy" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" height="30" width="42" alt="nextjs logo"  />
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" width="30" alt="ts logo"  />
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" width="42" alt="docker logo"  />
-  <img loading="lazy" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" height="30" width="30" alt="jenkins logo"  />
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="42" alt="linux logo"  />
-  <img loading="lazy" src="https://www.svgrepo.com/show/373924/nginx.svg" height="30" width="42" alt="nginx logo"  />
-  <img loading="lazy" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" height="30" width="42" alt="aws logo"  />
-  <img loading="lazy" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg" height="30" width="42" style="background-color: white" alt="flask logo"  />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,jquery,mysql,docker,netlify,jenkins" />
+  </a>
+</p>
 
 
-</div>
+## IDE
 
-## Contacts
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,androidstudio," />
+  </a>
+</p>
+
+## 💬 Contacts
 
 <div align="left">
   <a href="https://www.facebook.com/phat.genji/" target="_blank">
