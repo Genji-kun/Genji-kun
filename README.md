@@ -7,7 +7,7 @@ Vo Phu Phat</a></h1>
 
 ## My profile 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=genji-kun&theme=tokyonight&hide=contribs,prs)
+<img src="https://github-readme-stats.vercel.app/api?username=genji-kun&theme=tokyonight&show_icons=false&count_private=true">
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=genji-kun&theme=tokyonight&layout=donut&langs_count=6">
 
