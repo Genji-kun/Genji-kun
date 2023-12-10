@@ -35,11 +35,7 @@ My name is Vo Phu Phat, also known as Genji-kun, a passionate website developer 
   <img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=genji-kun" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img align="right" height="170" src="https://media.tenor.com/isE7nRjsGVMAAAAC/kobayashi-laugh.gif"  />
-
-###
+### Technicals
 
 <div align="left">
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" width="42" alt="spring logo"  />
@@ -53,14 +49,14 @@ My name is Vo Phu Phat, also known as Genji-kun, a passionate website developer 
   
 </div>
 
-###
+## Contacts
 
 <div align="left">
   <a href="https://www.facebook.com/phat.genji/" target="_blank">
-    <img loading="lazy" src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+    <img loading="lazy" src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
   <a href="https://www.linkedin.com/in/genji-kun/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> </a>
-  <a href="nguyenxuannhan407@gmail.com" target="_blank">
+  <a href="it.phatvo@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
     
