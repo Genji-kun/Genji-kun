@@ -6,7 +6,7 @@
 
 ## My profile 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=genji-kun)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=genji-kun)](https://github.com/Genji-kun/Genji-kun)
 
 
 <h3 align="left">Languages and Tools:</h3>
