@@ -1,21 +1,86 @@
-### Hi, my name is Vo Phu Phat,a passionate Website Developer from VietNam. I'm currently 4th year student of HCMC Open University
-##
-![view](https://komarev.com/ghpvc/?username=genji-kun)
+## 👋 Greetings
 
+<p align="justify">
+My name is Vo Phu Phat, also known as Genji-kun, a passionate website developer from Vietnam.
+</p>
 
-## My profile 
+<p align="justify">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=genji-kun&theme=tokyonight&hide=contribs,prs)
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=genji-kun&theme=tokyonight&layout=donut&langs_count=6">
+👀 My primary areas of interest revolve around critical subjects such as **Front-end**, **Back-end**, and **Deploy**.
 
-## My Technicals
+</p>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python3](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<p align="justify">
+
+👨‍💻 I maintain an active presence on GitHub, where you can find a comprehensive showcase of my projects. Feel free to explore them on my [GitHub page](https://github.com/foxminchan?tab=repositories).
+
+</p>
+
+<p align="justify">
+
+💬 I am well-versed in various topics, including but not limited to React, Ubuntu, and Java Spring. Please don't hesitate to reach out if you have any inquiries or need assistance.
+
+</p>
+
+<p align="justify">
+
+📫 For any queries or collaboration opportunities, you can contact me via [it.phatvo@gmail.com](mailto:it.phatvo@gmail.com).
+
+</p>
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img loading="lazy" src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=genji-kun" height="150" alt="stats graph"  />
+  <img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=genji-kun" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img align="right" height="170" src="https://media.tenor.com/isE7nRjsGVMAAAAC/kobayashi-laugh.gif"  />
+
+###
+
+<div align="left">
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" width="42" alt="spring logo"  />
+  <img loading="lazy" src="https://www.vectorlogo.zone/logos/nestjs/nextjs-icon.svg" height="30" width="42" alt="nestjs logo"  />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" width="30" alt="ts logo"  />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" width="42" alt="docker logo"  />
+  <img loading="lazy" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" height="30" width="30" alt="jenkins logo"  />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="42" alt="linux logo"  />
+  <img loading="lazy" src="https://www.svgrepo.com/show/373924/nginx.svg" height="30" width="42" alt="nginx logo"  />
+  <img loading="lazy" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" height="30" width="42" alt="aws logo"  />
+  
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.facebook.com/FoxMinChan/" target="_blank">
+    <img loading="lazy" src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  </a>
+  <a href="http://discordapp.com/users/842334669767966780" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+   <a href="https://t.me/FoxMinChan" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/nxnhan/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> </a>
+  <a href="nguyenxuannhan407@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+    <a href="https://www.hackerrank.com/foxminchan" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
+  </a>
+</div>
+
+## 👋 Glad to see you here!
+<p align="center">Visitors</p>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/genji-kun/count.svg?"  />
+</div>
+
+<p align="justify">
+I'm glad you found my GitHub profile! Please feel free to clone or fork any of my projects. If you have any suggestions or improvements, don't hesitate to raise issues or submit pull requests. If you have any questions or are interested in the technologies I use, please reach out to me via email. I'll be happy to assist you.
+</p>
