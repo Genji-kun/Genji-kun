@@ -3,7 +3,7 @@ Vo Phu Phat</a></h1>
 <h3 align="center">A passionate Application Developer from VietNam</h3>
 
 
-![view](https://komarev.com/ghpvc/?username=TranHuy2k2)
+![view](https://komarev.com/ghpvc/?username=genji-kun)
 
 ## My profile 
 
