@@ -46,7 +46,8 @@ My name is Vo Phu Phat, also known as Genji-kun, a passionate website developer 
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="42" alt="linux logo"  />
   <img loading="lazy" src="https://www.svgrepo.com/show/373924/nginx.svg" height="30" width="42" alt="nginx logo"  />
   <img loading="lazy" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" height="30" width="42" alt="aws logo"  />
-  
+  <img loading="lazy" src="  https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg" height="30" width="42" alt="aws logo"  />
+
 </div>
 
 ## Contacts
