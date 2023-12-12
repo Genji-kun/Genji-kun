@@ -33,7 +33,7 @@ My name is Vo Phu Phat, also known as Genji-kun, a passionate website developer 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,html,css,js,ts,python,java" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java" />
   </a>
 </p>
 
@@ -42,15 +42,6 @@ My name is Vo Phu Phat, also known as Genji-kun, a passionate website developer 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,docker,tailwind,mysql,flask,spring,firebase,react,vite,nextjs,vercel,linux,aws,netlify,jenkins" />
-  </a>
-</p>
-
-
-## IDEs
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=visualstudio,eclipse,vscode,androidstudio," />
   </a>
 </p>
 
