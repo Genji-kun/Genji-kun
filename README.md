@@ -12,7 +12,7 @@ My name is Vo Phu Phat, also known as Genji-kun, a passionate website developer 
 
 <p align="justify">
 
-👨‍💻 I maintain an active presence on GitHub, where you can find a comprehensive showcase of my projects. Feel free to explore them on my [GitHub page](https://github.com/foxminchan?tab=repositories).
+👨‍💻 I maintain an active presence on GitHub, where you can find a comprehensive showcase of my projects. Feel free to explore them on my [GitHub page](https://github.com/Genji-kun?tab=repositories).
 
 </p>
 
