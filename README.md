@@ -46,7 +46,7 @@ My name is Vo Phu Phat, also known as Genji-kun, a passionate website developer 
 
 ## 💬 Contacts
 
-<div align="left">
+<div align="center">
   <a href="https://www.facebook.com/phat.genji/" target="_blank">
     <img loading="lazy" src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
   <a href="https://www.linkedin.com/in/genji-kun/" target="_blank">
@@ -63,6 +63,6 @@ My name is Vo Phu Phat, also known as Genji-kun, a passionate website developer 
   <img src="https://profile-counter.glitch.me/genji-kun/count.svg?"  />
 </div>
 
-<p align="justify">
+<p align="center">
 I'm glad you found my GitHub profile! Please feel free to clone or fork any of my projects. If you have any suggestions or improvements, don't hesitate to raise issues or submit pull requests. If you have any questions or are interested in the technologies I use, please reach out to me via email. I'll be happy to assist you.
 </p>
