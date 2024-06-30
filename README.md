@@ -25,7 +25,10 @@ My name is Vo Phu Phat, also known as Genji-kun, a passionate website developer 
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&username=genji-kun" height="150" alt="languages graph"  />
+  
+  ![genji-kun's Stats](https://github-readme-stats.vercel.app/api?username=genji-kun&theme=react&show_icons=true&hide_border=true&count_private=true)
+  ![genji-kun's Streak](https://github-readme-streak-stats.herokuapp.com/?user=genji-kun&theme=react&hide_border=true)
+
 </div>
 
 ## Languages
