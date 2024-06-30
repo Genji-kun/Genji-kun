@@ -1,7 +1,7 @@
 ## 👋 Greetings
 
 <p align="justify">
-My name is Vo Phu Phat, also known as Genji-kun, a passionate website developer from Vietnam.
+My name is Vo Phu Phat you can call me Genji, I'm a passionate website developer from Vietnam.
 </p>
 
 <p align="justify">
